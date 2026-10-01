@@ -1,0 +1,29 @@
+1
+00:00:04,000 --> 00:00:13,000
+位置 + 时刻，才把一件事说清楚。
+An event needs both a position and a time.
+
+2
+00:00:13,000 --> 00:00:22,000
+光锥划出因果边界：锥外的事件无法以光速或更慢连接。
+Outside the light cone, no signal at or below light speed can connect the events.
+
+3
+00:00:22,000 --> 00:00:31,000
+速度为 0.8c：地面经过 10 秒，运动钟经过 6 秒。
+At 0.8c: 10 seconds on the ground correspond to 6 seconds on the moving clock.
+
+4
+00:00:31,000 --> 00:00:40,000
+质量保持不变；速度越高，总能量与动能越大。
+Invariant mass stays the same; total and kinetic energy increase with speed.
+
+5
+00:00:40,000 --> 00:00:49,000
+曲面是帮助理解的二维类比，不是四维时空的真实外形。
+The curved surface is a 2D analogy, not the physical shape of four-dimensional spacetime.
+
+6
+00:00:49,000 --> 00:00:58,000
+改变质量与掠过距离，比较弱引力场中的光偏折。
+Change mass and passing distance to compare light bending in a weak gravitational field.
